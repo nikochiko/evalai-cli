@@ -33,3 +33,12 @@ def login(ctx):
                 echo(e)
 
     echo(style("\nLogged in successfully!", bold=True))
+
+
+@click.group(invoke_without_command=True)
+def test_func_command():
+    echo("TEST TEST TEST")
+
+
+def test_func_not_command():
+    echo("TEST TEST TEST")
