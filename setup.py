@@ -27,7 +27,7 @@ install_requires = [
     "pytest-cov==2.5.1",
     "python-dateutil==2.7.3",
     "requests==2.20.0",
-    "requests-toolbelt==0.8.0",
+    "requests-toolbelt==0.9.1",
     "responses==0.9.0",
     "validators==0.12.2",
 ]
