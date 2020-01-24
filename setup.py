@@ -29,7 +29,7 @@ install_requires = [
     "requests==2.20.0",
     "requests-toolbelt==0.8.0",
     "responses==0.9.0",
-    "validators==0.12.2",
+    "validators==0.12.6",
 ]
 
 setup(
