@@ -16,7 +16,7 @@ install_requires = [
     "boto==2.49.0",
     "boto3==1.9.88",
     "botocore==1.12.116",
-    "click==6.7",
+    "click==7.1.2",
     "coverage==4.5.1",
     "coveralls==1.3.0",
     "docker==3.6.0",
