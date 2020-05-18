@@ -11,7 +11,7 @@ with io.open("README.md", encoding="utf-8") as f:
     long_description = f.read()
 
 install_requires = [
-    "beautifulsoup4==4.7.1",
+    "beautifulsoup4==4.9.1",
     "beautifultable==0.7.0",
     "boto==2.49.0",
     "boto3==1.9.88",
