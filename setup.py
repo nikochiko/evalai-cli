@@ -14,7 +14,7 @@ install_requires = [
     "beautifulsoup4==4.7.1",
     "beautifultable==0.7.0",
     "boto==2.49.0",
-    "boto3==1.9.88",
+    "boto3==1.13.25",
     "botocore==1.12.116",
     "click==6.7",
     "coverage==4.5.1",
