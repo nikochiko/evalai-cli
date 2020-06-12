@@ -28,7 +28,7 @@ install_requires = [
     "python-dateutil==2.7.3",
     "requests==2.20.0",
     "requests-toolbelt==0.8.0",
-    "responses==0.9.0",
+    "responses==0.10.15",
     "validators==0.12.2",
 ]
 
