@@ -22,7 +22,7 @@ install_requires = [
     "docker==3.6.0",
     "flake8==3.0.4",
     "lxml==4.2.1",
-    "pre-commit==1.14.4",
+    "pre-commit==2.11.0",
     "pytest==3.5.1",
     "pytest-cov==2.5.1",
     "python-dateutil==2.7.3",
